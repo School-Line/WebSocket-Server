@@ -10,7 +10,7 @@ WebSocketとは、ブラウザとウェブサーバーとの間で双方向通�
 サーバーのアドレスは、初期状態なら`ws://localhost:8082`になります
 
 ## 関連リンク
-[本体](https://github.com/School-Line/Web-Client)
+[本体](https://github.com/School-Line/Web-Client)<br>
 [ダッシュボード](https://github.com/School-Line/Web-Dashboard)
 
 ## 参照
